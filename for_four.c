@@ -10,6 +10,8 @@ int main(){
     if (p==0)
     {
         printf("%d \n", (int)getpid());
+    }else{
+        printf("%d \n", (int)getpid());
     }    
    }
    
